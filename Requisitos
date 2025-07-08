@@ -1,0 +1,22 @@
+inux (Kali, Debian, Ubuntu)
+
+nmap instalado
+
+
+4. Haz clic en **`Commit new file`**
+
+---
+
+### ✅ 5. (Opcional) Agrega un archivo de licencia
+
+Si quieres que otros usen tu código legalmente:
+
+1. Click en **"Add file" > "Create new file"**
+2. Nombre: `LICENSE`
+3. Selecciona una plantilla (recomiendo `MIT License`)
+4. Llena tu nombre y el año
+5. Click en **`Commit new file`**
+
+---
+
+¿Quieres que te genere automáticamente el contenido de tu `README.md` completo y archivo `scanner.sh` base? Solo dime y lo preparamos aquí para copiar/pegar.
