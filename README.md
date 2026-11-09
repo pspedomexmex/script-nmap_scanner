@@ -12,4 +12,5 @@ Este script en Bash permite realizar escaneos automatizados con `nmap`, ideal pa
 ## Uso
 
 ```bash
-bash escan_nmap.sh 192.168.1.0/24
+# El script es interactivo: te pedira la IP o el dominio a escanear.
+bash escan_nmap.sh
