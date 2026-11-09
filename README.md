@@ -12,4 +12,4 @@ Este script en Bash permite realizar escaneos automatizados con `nmap`, ideal pa
 ## Uso
 
 ```bash
-bash nmap_scanner.sh 192.168.1.0/24
+bash escan_nmap.sh 192.168.1.0/24
